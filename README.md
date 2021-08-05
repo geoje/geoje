@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0&height=400&section=header&text=YGH%20Labs&desc=Pursue%20better%20life&fontColor=ffffff&fontSize=100&descAlign=66&descAlignY=61&rotate=-4)
-<br><br><br><br>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=YGH%20Labs&desc=string%20click_here%20%3D%20%22View%20my%20projects%22;&fontColor=ffffff&fontSize=80&fontAlignY=44&descAlignY=55&descAlign=52&rotate=-4)](https://geoje.github.io)
+<br><br>
 
 # <p align="center">⚒ Tech Stack 🛠</p>
 <p align="center">
@@ -20,14 +20,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-DD4B39?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
 </p>
-<br><br><br><br>
-
-# <p align="center">📚 Projects Summary 📖</p>
-#### <p align="center">❤️Click badge to view my projects👍<p>
-<p align="center">
-<a href="https://geoje.github.io"><img src="https://img.shields.io/badge/GitHub%20Page-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</p>
-<br><br><br><br>
+<br><br>
 
 # <p align="center">🔑 Problem Solving 🗝</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
