@@ -9,6 +9,18 @@
   </h6>
 </blockquote>
 
+## 💼 Careers
+
+<blockquote>
+<h6><code> 2023.05 ~ 2023.12 </code></h6>
+<h6><img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | 회계 및 IT 업무 총괄 | <a href="https://3dbiocadasia.com">홈페이지</a></h6>
+</blockquote>
+
+<blockquote>
+<h6><code> 2022.05 ~ 2023.05 </code></h6>
+<h6><img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD | IT Network and System Management | <a href="https://3dbiocad.com">홈페이지</a></h6>
+</blockquote>
+
 ## 🎓 Education
 
 <blockquote>
