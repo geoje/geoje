@@ -1,37 +1,23 @@
 ## 🙍‍♂️ About Me
 
 <h4>안녕하세요! 백엔드 개발자 양경호입니다.</h4>
-
-<blockquote>
-  <h6>
-    문제를 분석하고 요구사항을 정리하여 코드로 해결하는 것을 좋아합니다.<br>
-    변화와 피드백에 대응하며 점진적으로 발전시키는 것을 선호합니다.
-  </h6>
-</blockquote>
+<h6>
+  문제를 분석하고 요구사항을 정리하여 코드로 해결하는 것을 좋아합니다.<br>
+  변화와 피드백에 대응하며 점진적으로 발전시키는 것을 선호합니다.
+</h6>
 
 ## 💼 Careers
 
-<blockquote>
-<h6><code> 2023.05 ~ 2023.12 </code></h6>
-<h6><img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | 회계 및 IT 업무 총괄 | <a href="https://3dbiocadasia.com">홈페이지</a></h6>
-</blockquote>
-
-<blockquote>
-<h6><code> 2022.05 ~ 2023.05 </code></h6>
-<h6><img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD | IT Network and System Management | <a href="https://3dbiocad.com">홈페이지</a></h6>
-</blockquote>
+<h6><code> 2023.05 ~ 2023.12 </code> <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | 회계 및 IT 업무 총괄 | <a href="https://3dbiocadasia.com">홈페이지</a></h6>
+<h6><code> 2022.05 ~ 2023.05 </code> <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD | IT Network and System Management | <a href="https://3dbiocad.com">홈페이지</a></h6>
 
 ## 🎓 Education
 
-<blockquote>
-<h6><code> 2024.02 ~ 2024.11 (In progress) </code></h6>
-<h6><img width="16" src="https://apply.techcourse.co.kr/favicon.ico" /> 우아한테크코스 | 6기 백엔드 | <a href="https://velog.io/@chch1213/series/woteco-6-precourse">다이어리</a></h6>
-</blockquote>
 
-<blockquote>
-<h6><code> 2017.03 ~ 2023.02 </code></h6>
-<h6><img width="16" src="https://www.kw.ac.kr/ko/img/favicon.ico" /> 광운대학교 학사 졸업 | 시스템 소프트웨어 전공 | <a href="https://github.com/geoje/KwUniversity">리포지토리</a></h6>
-</blockquote>
+<h6><code> 2024.02 ~ 2024.11 (In progress) </code> <img width="16" src="https://apply.techcourse.co.kr/favicon.ico" /> 우아한테크코스 | 6기 백엔드 | <a href="https://velog.io/@chch1213/series/woteco-6-precourse">다이어리</a></h6>
+
+<h6><code> 2017.03 ~ 2023.02 </code> <img width="16" src="https://www.kw.ac.kr/ko/img/favicon.ico" /> 광운대학교 학사 졸업 | 시스템 소프트웨어 전공 | <a href="https://github.com/geoje/KwUniversity">리포지토리</a></h6>
+
 
 ## ⛏️ Tech Stack
 
