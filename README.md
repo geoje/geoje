@@ -36,21 +36,12 @@
 ## ⛏️ Tech Stack
 
 <blockquote>
-<h6><code> Frontend </code> 취미로 학습하여 웹 서비스를 4년 이상 운영 중입니다.</h6>
-  
-![](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&style=flat-square&logoColor=white)
-</blockquote>
-
-<blockquote>
 <h6><code> Backend </code> 메인 기술 스택인 만큼 깊이 있게 학습하여 변화에 용이한 코드를 작성합니다.</h6>
 
 ![](https://img.shields.io/badge/Redis-FF4438?logo=redis&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=black)
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)
-
 </blockquote>
 
 <blockquote>
@@ -62,5 +53,12 @@
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/AWS%20ELB-8C4FFF?logo=awselasticloadbalancing&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Actions-181717?logo=github&style=flat-square&logoColor=white)
+</blockquote>
 
+<blockquote>
+<h6><code> Frontend </code> 취미로 학습하여 웹 서비스를 4년 이상 운영 중입니다.</h6>
+
+![](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&style=flat-square&logoColor=white)
 </blockquote>
