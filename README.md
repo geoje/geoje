@@ -13,7 +13,7 @@
 
 ## 🎓 Education
 
-##### `  2024.02 ~ 2024.11 (In progress)  ` <img width="16" src="https://apply.techcourse.co.kr/favicon.ico" /> Woowa Brothers Tech Course | Backend Class 6 | [Diary](https://velog.io/@chch1213/series/woteco-6-precourse)
+##### `  2024.02 ~ 2024.11  ` <img width="16" src="https://apply.techcourse.co.kr/favicon.ico" /> Woowa Brothers Tech Course | Backend Class 6 | [Diary](https://velog.io/@chch1213/series/woteco-6-precourse)
 ##### `  2017.03 ~ 2023.02  ` <img width="16" src="https://www.kw.ac.kr/ko/img/favicon.ico" /> Kwangwoon University, Bachelor’s Degree | Major in System Software | [Repository](https://github.com/geoje/KwUniversity)
 
 ## ⛏️ Tech Stack
