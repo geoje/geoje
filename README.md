@@ -8,7 +8,7 @@
 
 ## 💼 Careers
 
-##### `  2023.05 ~ 2023.12  ` <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | General Manager of Accounting and IT | [Homepage](https://3dbiocadasia.com)
+##### `  2023.05 ~ 2023.12  ` <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | IT and Accounting | [Homepage](https://3dbiocadasia.com)
 ##### `  2022.05 ~ 2023.05  ` <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD | IT Network and System Management | [Homepage](https://3dbiocad.com)
 
 ## 🎓 Education
