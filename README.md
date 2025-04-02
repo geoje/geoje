@@ -8,7 +8,7 @@
 
 ## 💼 Careers
 
-##### `  2025.04 ~ 0000.00  ` <img width="16" src="[https://www.deliveryhero.com/favicon.ico](https://github.com/user-attachments/assets/0d6aeb56-3cb3-490b-92e7-36691440c2ec)" /> Delivery Hero | Software Enginner | [Homepage](https://deliveryhero.com)
+##### `  2025.04 ~ 0000.00  ` <img width="16" src="https://github.com/user-attachments/assets/0d6aeb56-3cb3-490b-92e7-36691440c2ec" /> Delivery Hero | Software Enginner | [Homepage](https://deliveryhero.com)
 ##### `  2023.05 ~ 2023.12  ` <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD Asia | IT and Accounting | [Homepage](https://3dbiocadasia.com)
 ##### `  2022.05 ~ 2023.05  ` <img width="16" src="https://3dbiocad.com/cdn/shop/files/3D.png?width=16" /> 3DBioCAD | IT Network and System Management | [Homepage](https://3dbiocad.com)
 
